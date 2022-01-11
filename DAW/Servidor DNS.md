@@ -1,6 +1,6 @@
 ### Prerrequisitos
-![Ubuntu 20.04](https://ubuntu.com/download/desktop/thank-you?version=20.04.3&architecture=amd64)
-![[Configuración Red NAT#Configurar Red NAT]]
+[Ubuntu 20.04](https://ubuntu.com/download/desktop/thank-you?version=20.04.3&architecture=amd64)
+[Configuración Red NAT#Configurar Red NAT](https://github.com/ivegamerayo/apuntesDAW/blob/main/DAW/Configuraci%C3%B3n%20Red/Configuraci%C3%B3n%20Red%20NAT.md)
 ![[Configuración IP estática#Configuración]]
 
 ---
