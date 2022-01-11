@@ -1,5 +1,5 @@
 ### Prerrequisitos
-[Ubuntu 20.04](https://ubuntu.com/download/desktop/thank-you?version=20.04.3&architecture=amd64)
+![Ubuntu 20.04](https://ubuntu.com/download/desktop/thank-you?version=20.04.3&architecture=amd64)
 ![[Configuración Red NAT#Configurar Red NAT]]
 ![[Configuración IP estática#Configuración]]
 
